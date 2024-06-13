@@ -1,4 +1,4 @@
-name: Heejunes CI
+name: hj_Test CI
 
 on:
   push:
